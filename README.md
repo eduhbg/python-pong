@@ -1,4 +1,4 @@
-# :tennis: Pong Game with Python Turtle Library
+# :tennis: Pong Game with Python and Turtle Library
 
 This project had as a guide a tutorial of [freeCodeCamp](https://www.youtube.com/watch?v=XGf2GcyHPhc).
 
