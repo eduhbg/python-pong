@@ -6,8 +6,8 @@ When the game starts, the user needs to choose a game level that he wants to pla
 
 *This project follows a tutorial of [freeCodeCamp](https://www.youtube.com/watch?v=XGf2GcyHPhc).*
 
-## Learn more:
+Hope you enjoy it! 👽
+
+### Learn more:
 
 More about turtle libray [here](https://docs.python.org/3/library/turtle.html).
-
-Hope you enjoy it! 👽
